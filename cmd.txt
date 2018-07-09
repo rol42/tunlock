@@ -1,0 +1,1 @@
+tg://socks?server=dart.vivalaresistance.info&port=3306&user=swcbbabh&pass=aYEbh6q5gQ
