@@ -1,1 +1,1 @@
-tg://socks?server=67.207.79.33&port=443&secret=cfd1400c8002cb3cec1da036f62f7b0e
+tg://proxy?server=67.207.79.33&port=443&secret=cfd1400c8002cb3cec1da036f62f7b0e
