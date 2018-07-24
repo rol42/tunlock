@@ -1,1 +1,1 @@
-tg://proxy?server=178.128.192.173&port=443&secret=cfd1400c8002cb3cec1da036f62f7b0e
+tg://socks?server=ley.vivalaresistance.info&port=3306&user=swcbbabh&pass=aYEbh6q5gQ
