@@ -1,1 +1,1 @@
-tg://proxy?server=dart.vivalaresistance.info&port=443&secret=f48f621b110f302e468756840c29f916
+tg://socks?server=67.207.79.33&port=443&secret=cfd1400c8002cb3cec1da036f62f7b0e
