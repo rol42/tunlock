@@ -1,1 +1,1 @@
-tg://proxy?server=88.202.183.12&port=443&secret=0297f4be7b5672b463bdc35ca4815619
+tg://proxy?server=bm4.drproxy.pro&port=1010&secret=dd03bd6926a81f6d2f1359f65f57eed4bb
