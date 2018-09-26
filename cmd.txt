@@ -1,1 +1,1 @@
-tg://proxy?server=bmf.drproxy.pro&port=1010&secret=dd03bd6926a81f6d2f1359f65f57eed4bb
+tg://proxy?server=papaproxy.me&port=443&secret=cfd1400c8002cb3cec1da036f62f7b0e
