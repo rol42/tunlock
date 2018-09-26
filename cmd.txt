@@ -1,1 +1,1 @@
-tg://proxy?server=bm4.drproxy.pro&port=1010&secret=dd03bd6926a81f6d2f1359f65f57eed4bb
+tg://proxy?server=bmf.drproxy.pro&port=1010&secret=dd03bd6926a81f6d2f1359f65f57eed4bb
