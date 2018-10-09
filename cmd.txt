@@ -1,1 +1,1 @@
-tg://proxy?server=Halekhuob.bm4.drproxy.club&port=1017&secret=eb1d00935208fc9fad80a32389285472
+tg://proxy?server=telly-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b
