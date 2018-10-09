@@ -1,1 +1,1 @@
-tg://proxy?server=d5.drproxy.pro&port=1010&secret=dd03bd6926a81f6d2f1359f65f57eed4bb
+tg://socks?server=rey.vivalaresistance.info&port=3306&user=swcbbabh&pass=aYEbh6q5gQ
