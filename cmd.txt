@@ -1,1 +1,1 @@
-tg://proxy?server=telly-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b
+tg://proxy?server=nl.proxy-service-bot.cc&port=1500&secret=5ea44564bdc2c63f7fbfe38cc63244ec
