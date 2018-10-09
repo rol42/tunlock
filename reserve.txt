@@ -1,1 +1,1 @@
-tg://proxy?server=95.216.179.59&port=443&secret=dd1e5472fa94a3bf61a1caca44a9745325
+tg://proxy?server=rey.vivalaresistance.info&port=443&secret=f48f621b110f302e468756840c29f916
