@@ -1,3 +1,7 @@
+tg://proxy?server=195.201.45.192&port=443&secret=dd051b7be9fe4915b5fc5ee465ce5c35c3;
+tg://proxy?server=194.182.72.191&port=443&secret=dd860e4dfc050f29d9d490a37cd7aec275;
+tg://proxy?server=Halekhuob.bm4.drproxy.club&port=1017&secret=eb1d00935208fc9fad80a32389285472;
+tg://proxy?server=mtprotog-1.bmf.drproxy.club&port=1043&secret=dd10f4469c42e2c035eab2ce40bd1c1099;
 tg://socks?server=rey.vivalaresistance.info&port=3306&user=swcbbabh&pass=aYEbh6q5gQ
 tg://proxy?server=della-1.mtproxy.opennetwork.cc&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b;
 tg://proxy?server=telly-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b;
@@ -11,11 +15,7 @@ tg://proxy?server=t2.drproxy.pro&port=1010&secret=dd03bd6926a81f6d2f1359f65f57ee
 tg://proxy?server=d5.drproxy.pro&port=25&secret=dd03bd6926a81f6d2f1359f65f57eed4bb;
 tg://proxy?server=bmf.drproxy.pro&port=1010&secret=dd03bd6926a81f6d2f1359f65f57eed4bb;
 tg://proxy?server=95.216.200.35&port=443&secret=dd66507066b4556220f22eecb2befbc102;
-tg://proxy?server=195.201.45.192&port=443&secret=dd051b7be9fe4915b5fc5ee465ce5c35c3;
 tg://proxy?server=applebabyone.d5.drproxy.pro&port=1012&secret=dd0219029aa5dfa653847694ad2d8191ea;
 tg://proxy?server=mtprotog-2.bmf.drproxy.club&port=1044&secret=ddacf49d97e2e524e6177603fa0780daac;
-tg://proxy?server=mtprotog-1.bmf.drproxy.club&port=1043&secret=dd10f4469c42e2c035eab2ce40bd1c1099;
 tg://proxy?server=188.40.206.126&port=443&secret=dd44e27f668ab54c18aedede337d17e884;
 tg://proxy?server=159.65.81.170&port=443&secret=ddddddeeeeffff00001111222233334444;
-tg://proxy?server=194.182.72.191&port=443&secret=dd860e4dfc050f29d9d490a37cd7aec275;
-tg://proxy?server=Halekhuob.bm4.drproxy.club&port=1017&secret=eb1d00935208fc9fad80a32389285472;
