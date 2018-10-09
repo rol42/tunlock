@@ -1,1 +1,1 @@
-tg://proxy?server=195.201.45.192&port=443&secret=dd051b7be9fe4915b5fc5ee465ce5c35c3
+tg://proxy?server=Halekhuob.bm4.drproxy.club&port=1017&secret=eb1d00935208fc9fad80a32389285472
