@@ -3,7 +3,7 @@ tg://proxy?server=della-1.mtproxy.opennetwork.cc&port=2000&secret=63c344243ae6c8
 tg://proxy?server=telly-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b;
 tg://proxy?server=rey.vivalaresistance.info&port=443&secret=f48f621b110f302e468756840c29f916;
 tg://proxy?server=bm5.drproxy.pro&port=25&secret=dd03bd6926a81f6d2f1359f65f57eed4bb;
-http://t.me/proxy?server=cybest.d5.drproxy.club&port=53&secret=ddf65b9f45bcc9c2c1887afd44398efcfd;
+tg://proxy?server=cybest.d5.drproxy.club&port=53&secret=ddf65b9f45bcc9c2c1887afd44398efcfd;
 tg://proxy?server=picassomag.bmf151719.drproxy.pro&port=1021&secret=dd042405d04885975646cb02014685e9a0
 tg://proxy?server=Farsi.bm5.drproxy.pro&port=1050&secret=dde326a3387731d9307a652976228206a2;
 tg://proxy?server=picassomag.d5.drproxy.pro&port=1021&secret=dd042405d04885975646cb02014685e9a0;
