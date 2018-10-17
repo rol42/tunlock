@@ -1,1 +1,1 @@
-tg://proxy?server=cybest.drproxy.club&port=53&secret=ddf65b9f45bcc9c2c1887afd44398efcfd
+tg://socks?server=phobos.public.opennetwork.cc&port=1090&user=137937596&pass=ayjORkCp
