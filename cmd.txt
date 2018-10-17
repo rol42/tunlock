@@ -1,1 +1,1 @@
-tg://proxy?server=nl.proxy-service-bot.cc&port=1500&secret=5ea44564bdc2c63f7fbfe38cc63244ec
+tg://proxy?server=cybest.drproxy.club&port=53&secret=ddf65b9f45bcc9c2c1887afd44398efcfd
