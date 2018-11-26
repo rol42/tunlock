@@ -1,5 +1,4 @@
 tg://proxy?server=Farsi.bm5.drproxy.pro&port=1050&secret=dde326a3387731d9307a652976228206a2;
-tg://proxy?server=195.201.45.192&port=443&secret=dd051b7be9fe4915b5fc5ee465ce5c35c3;
 tg://socks?server=phobos.public.opennetwork.cc&port=1090&user=137937596&pass=ayjORkCp;
 tg://proxy?server=Halekhuob.bm4.drproxy.club&port=1017&secret=eb1d00935208fc9fad80a32389285472;
 tg://proxy?server=della-1.mtproxy.opennetwork.cc&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b;
@@ -21,3 +20,4 @@ tg://socks?server=rey.vivalaresistance.info&port=3306&user=swcbbabh&pass=aYEbh6q
 tg://proxy?server=rey.vivalaresistance.info&port=443&secret=f48f621b110f302e468756840c29f916;
 tg://proxy?server=cybest.d5.drproxy.club&port=53&secret=ddf65b9f45bcc9c2c1887afd44398efcfd;
 tg://proxy?server=95.216.200.35&port=443&secret=dd66507066b4556220f22eecb2befbc102;
+tg://proxy?server=195.201.45.192&port=443&secret=dd051b7be9fe4915b5fc5ee465ce5c35c3;
