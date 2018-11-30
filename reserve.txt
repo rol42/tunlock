@@ -1,1 +1,1 @@
-tg://proxy?server=della-1.mtproxy.opennetwork.cc&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b
+tg://proxy?server=rey.vivalaresistance.info&port=443&secret=f48f621b110f302e468756840c29f916
