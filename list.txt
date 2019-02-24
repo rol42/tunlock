@@ -1,6 +1,4 @@
-tg://proxy?server=telly-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b;
 tg://socks?server=phobos.public.opennetwork.cc&port=1090&user=137937596&pass=ayjORkCp;
-tg://proxy?server=free.FCKRKNBOT.com&port=51820&secret=ddf48f621b110f302e468756840c29f916;
 tg://proxy?server=music.telmtproto.me&port=443&secret=ddc254a2b7f3080ac6ff9465eef8e646e4;
 tg://proxy?server=rey.vivalaresistance.info&port=443&secret=f48f621b110f302e468756840c29f916;
 tg://proxy?server=1.mtpir.cf&port=443&secret=dd96126bb173dd4d2e853821507d311ab1&@MTProxies;
@@ -15,6 +13,7 @@ tg://proxy?server=yota.drproxy.pro&port=1194&secret=dd03bd6926a81f6d2f1359f65f57
 tg://proxy?server=Ghasem.mtproxy.club&port=1073&secret=ddece2827e4f49420059b6cb797849fb84;
 tg://socks?server=rey.vivalaresistance.info&port=3306&user=swcbbabh&pass=aYEbh6q5gQ;
 tg://proxy?server=della-1.mtproxy.opennetwork.cc&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b;
+tg://proxy?server=free.FCKRKNBOT.com&port=51820&secret=ddf48f621b110f302e468756840c29f916;
 tg://proxy?server=telly-1.mtproxy.ss5.ch&port=2000&secret=63c344243ae6c8a5bda35370e1274f3b;
 tg://socks?server=deimos.public.opennetwork.cc&port=1090&user=137937596&pass=ayjORkCp;
 tg://proxy?server=178.128.137.255&port=443&secret=97661a2ad2bfa895b023d0c3503969bd;
