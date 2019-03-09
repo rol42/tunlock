@@ -1,1 +1,1 @@
-tg://socks?server=phobos.public.opennetwork.cc&port=1090&user=137937596&pass=ayjORkCp
+tg://proxy?server=music.telmtproto.me&port=443&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
