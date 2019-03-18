@@ -1,4 +1,5 @@
 tg://proxy?server=catalog.live.ovh&port=777&secret=dd77777777777777777777777777777777;
+tg://proxy?server=mssg.mtpr.xyz&port=443&secret=ddb67bc26648177a20ccd4e20d1b67d980
 tg://socks?server=phobos.public.opennetwork.cc&port=1090&user=137937596&pass=ayjORkCp;
 tg://proxy?server=music.telmtproto.me&port=443&secret=ddc254a2b7f3080ac6ff9465eef8e646e4;
 tg://proxy?server=vamtlgrm.drproxy.pro&port=1011&secret=d56b62206b7f72baac5e39335bf6faad;
