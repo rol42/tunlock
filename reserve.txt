@@ -1,1 +1,1 @@
-tg://proxy?server=rey.vivalaresistance.info&port=443&secret=f48f621b110f302e468756840c29f916
+tg://proxy?server=mssg.themarfa.online&port=443&secret=dd828b44917e30834040992766a7ed2bbf
