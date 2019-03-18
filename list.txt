@@ -1,5 +1,7 @@
+tg://proxy?server=catalog.live.ovh&port=777&secret=dd77777777777777777777777777777777;
 tg://socks?server=phobos.public.opennetwork.cc&port=1090&user=137937596&pass=ayjORkCp;
 tg://proxy?server=music.telmtproto.me&port=443&secret=ddc254a2b7f3080ac6ff9465eef8e646e4;
+tg://proxy?server=vamtlgrm.drproxy.pro&port=1011&secret=d56b62206b7f72baac5e39335bf6faad;
 tg://proxy?server=rey.vivalaresistance.info&port=443&secret=f48f621b110f302e468756840c29f916;
 tg://proxy?server=1.mtpir.cf&port=443&secret=dd96126bb173dd4d2e853821507d311ab1&@MTProxies;
 tg://proxy?server=FastMtProxy.mtproxy.club&port=1071&secret=ddece2827e4f49420059b6cb797849fb84;
