@@ -1,1 +1,1 @@
-tg://proxy?server=music.telmtproto.me&port=443&secret=ddc254a2b7f3080ac6ff9465eef8e646e4
+tg://proxy?server=wtf.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154
