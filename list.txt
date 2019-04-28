@@ -1,3 +1,5 @@
+tg://proxy?server=wtf.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154;
+tg://proxy?server=lucky-morning-2724.likesky.blue&port=443&secret=dd0f685f79eef99decf29efd9a68acf2a5;
 tg://proxy?server=catalog.live.ovh&port=777&secret=dd77777777777777777777777777777777;
 tg://proxy?server=mssg.mtpr.xyz&port=443&secret=ddb67bc26648177a20ccd4e20d1b67d980
 tg://socks?server=phobos.public.opennetwork.cc&port=1090&user=137937596&pass=ayjORkCp;
