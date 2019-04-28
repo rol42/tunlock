@@ -1,1 +1,1 @@
-tg://proxy?server=mssg.themarfa.online&port=443&secret=dd828b44917e30834040992766a7ed2bbf
+tg://proxy?server=lucky-morning-2724.likesky.blue&port=443&secret=dd0f685f79eef99decf29efd9a68acf2a5
