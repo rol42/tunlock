@@ -1,4 +1,9 @@
 tg://proxy?server=wtf.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154;
+tg://proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e;
+tg://proxy?server=russia.proxytelegram.com&port=8080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74;
+tg://proxy?server=ru.tgproxy.today&port=8080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74;
+tg://proxy?server=russia.proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e;
+tg://proxy?server=proxy.dti.team&port=443&secret=4238a7ac5592269805c169e119567cbb;
 tg://proxy?server=lucky-morning-2724.likesky.blue&port=443&secret=dd0f685f79eef99decf29efd9a68acf2a5;
 tg://proxy?server=free.FCKRKNBOT.com&port=500&secret=ddf48f621b110f302e468756840c29f916;
 tg://proxy?server=catalog.live.ovh&port=777&secret=dd77777777777777777777777777777777;
