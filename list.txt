@@ -1,5 +1,13 @@
 tg://proxy?server=free.FCKRKNBOT.com&port=500&secret=ddf48f621b110f302e468756840c29f916;
 tg://proxy?server=Myporoxy.dynu.net&port=1088&secret=00000000000000000000000000000000;
+tg://proxy?server=catalog.proxy.pp.ru&port=443&secret=7k-i8AtYXiUo20zjP-qrscBnb29nbGUuY29t;
+tg://socks?server=orbtl.s5.opennetwork.cc&port=999&user=137937596&pass=ayjORkCp;
+tg://proxy?server=apfel.themarfa.live&port=443&secret=dd828b44917e30834040992766a7ed2bbf;
+tg://proxy?server=proxylist.sytes.net&port=27027&secret=eef33667de6cb64be935408cda0c15625a676f6f676c652e636f6d;
+tg://proxy?server=p1.mtproxies.com&port=443&secret=ee54d4920e90309e82dad8a6cc3f4d717473686f702e6972616e63656c6c2e6972;
+tg://proxy?server=https.access.ly&port=80&secret=eeaea6e111bada5511fcce9584de99beef68747470733a2f2f7777772e70617273696a6f6f2e69722e;
+tg://proxy?server=ru-new.tgproxy.today&port=443&secret=eefb175d6d7f820cdc73ab11edbdcdbd747777772e676f6f676c652e636f6d;
+tg://proxy?server=pars.access.ly&port=80&secret=eeaea6e111bada5511fcce9584de99beef68747470733a2f2f7777772e70617273696a6f6f2e69722e;
 tg://proxy?server=wtf.shadowsocks.wtf&port=8443&secret=dd6e896e4745f8cb61486ee2dbf0114154;
 tg://proxy?server=proxy.digitalresistance.dog&port=443&secret=d41d8cd98f00b204e9800998ecf8427e;
 tg://proxy?server=russia.proxytelegram.com&port=8080&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74;
