@@ -1,4 +1,11 @@
+tg://proxy?server=68f9b1.fckrknbot.aiwp3.club&port=4443&secret=eef48f621b110f302e468756840c29f91673332e616d617a6f6e6177732e636f6d;
+tg://proxy?server=ru.tgproxy.today&port=1194&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74;
+tg://socks?server=orbtl.s5.opennetwork.cc&port=999&user=137937596&pass=ayjORkCp;
+tg://proxy?server=four.mtpfive.monster&port=443&secret=eebc475fdd1e87e6a105f9967fe9d40651736e6170702e6972;
 tg://proxy?server=free.FCKRKNBOT.com&port=500&secret=ddf48f621b110f302e468756840c29f916;
+tg://proxy?server=three.mtpfive.monster&port=443&secret=eebc475fdd1e87e6a105f9967fe9d40651736e6170702e6972;
+tg://proxy?server=faultfinders.iProxy.cloud&port=443&secret=dd00000000000000000000000000000000;
+tg://proxy?server=dataproxyy.golenj.xyz&port=2020&secret=ee0000000000000000000000000000003473332e616d617a6f6e6177732e636f6d;
 tg://proxy?server=Myporoxy.dynu.net&port=1088&secret=00000000000000000000000000000000;
 tg://proxy?server=catalog.proxy.pp.ru&port=443&secret=7k-i8AtYXiUo20zjP-qrscBnb29nbGUuY29t;
 tg://socks?server=orbtl.s5.opennetwork.cc&port=999&user=137937596&pass=ayjORkCp;
