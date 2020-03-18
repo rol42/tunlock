@@ -3,7 +3,9 @@ tg://proxy?server=new.proxy.teledroid.site&port=443&secret=4bab5dd522b800b5cc09e
 tg://proxy?server=00c2d0.FCKRKNbot.ripa.club&port=4443&secret=eef48f621b110f302e468756840c29f91673332e616d617a6f6e6177732e636f6d;
 tg://proxy?server=APOLO.TMAX.giize.com&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFpbnN0YWdyYW0uY29t;
 tg://proxy?server=5-Shine.Bocho.webredirect.org&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3ZWIud2hhdHNhcHAuY29t;
+tg://proxy?server=2020.parsaproxy.site&port=443&secret=ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d;
 tg://proxy?server=proxy.freether.tk&port=443&secret=ee98cc82c1c30797ef4ad27fbd084c71b0676f6f676c652e636f6d;
+tg://proxy?server=Bomb.MOnsterX.space&port=443&secret=7sJUorfzCArG_5Rl7vjmRuRkaWdpdGFsb2NlYW4uY29t&@TelMTProto;
 tg://proxy?server=68f9b1.fckrknbot.aiwp3.club&port=4443&secret=eef48f621b110f302e468756840c29f91673332e616d617a6f6e6177732e636f6d;
 tg://proxy?server=ru.tgproxy.today&port=1194&secret=ddfb175d6d7f820cdc73ab11edbdcdbd74;
 tg://socks?server=orbtl.s5.opennetwork.cc&port=999&user=137937596&pass=ayjORkCp;
