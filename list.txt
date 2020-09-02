@@ -1,3 +1,7 @@
+tg://proxy?server=68f9b1.FCKRKNbot.aiwp3.club&port=4443&secret=eef48f621b110f302e468756840c29f91673332e616d617a6f6e6177732e636f6d;
+tg://proxy?server=proxy.mtproto.co&port=443&secret=11112222333344445555666677778888;
+tg://proxy?server=8a9926.fckrknbot.pggo.club&port=4443&secret=eef48f621b110f302e468756840c29f91673332e616d617a6f6e6177732e636f6d;
+tg://proxy?server=eu.yfqcuhfv.xyz&port=443&secret=ee888aadcd975557e29c258291754b7bff6769746875622e636f6d;
 tg://proxy?server=tls.proxy.teledroid.site&port=443&secret=ee4bab5dd522b800b5cc09e28a44b5e3b67777772e77696b6970656469612e6f7267;
 tg://proxy?server=new.proxy.teledroid.site&port=443&secret=4bab5dd522b800b5cc09e28a44b5e3b6;
 tg://proxy?server=00c2d0.FCKRKNbot.ripa.club&port=4443&secret=eef48f621b110f302e468756840c29f91673332e616d617a6f6e6177732e636f6d;
